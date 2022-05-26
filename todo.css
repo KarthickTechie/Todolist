@@ -1,0 +1,19 @@
+.editbuttonstyle {
+  background: #65b5ff;
+  border: navajowhite;
+  padding: 5px;
+  color: white;
+  border-radius: 5px;
+  box-shadow: 0 1px 6px 0 rgb(32 33 36 / 28%);
+  cursor: pointer;
+}
+
+.deletebuttonstyle {
+  background: #cd2553;
+  border: navajowhite;
+  padding: 5px;
+  color: white;
+  border-radius: 5px;
+  box-shadow: 0 1px 6px 0 rgb(32 33 36 / 28%);
+  cursor: pointer;
+}
